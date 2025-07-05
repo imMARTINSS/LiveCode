@@ -5,7 +5,7 @@ Este repositório organiza os conteúdos usados na comunidade LiveCode, voltada 
 
 🌐 Discord da Comunidade
 ------------------------
-Acesse nosso servidor: https://discord.gg/sualink
+Acesse nosso servidor: https://discord.gg/czxyUNvp
 
 📚 Organização do Conteúdo
 ---------------------------
