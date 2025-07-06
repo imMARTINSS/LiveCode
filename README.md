@@ -8,7 +8,7 @@ Este repositório reúne os materiais da comunidade LiveCode, incluindo conteúd
 
 Junte-se a nós no Discord para participar das lives, tirar dúvidas e trocar experiências com outros devs iniciantes e intermediários:
 
-🔗 https://discord.gg/czxyUNvp
+🔗 https://discord.gg/Uv47GPS3
 
 ---
 
