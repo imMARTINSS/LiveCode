@@ -43,5 +43,5 @@ Sinta-se à vontade para abrir issues, contribuir com pull requests ou apenas ac
 
 📬 Me acompanhe nas redes:
 
-[![GitHub](https://img.shields.io/badge/GitHub-imMARTINSS-181717?logo=github&style=for-the-badge)](https://github.com/imMARTINSS)
-[![Instagram](https://img.shields.io/badge/@raull__martinss-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/raull_martinss)
+[![GitHub](https://img.shields.io/badge/GitHub-imMARTINSS-181717?logo=github&style=for-the-badge)](https://github.com/imMARTINSS)  
+[![Instagram](https://img.shields.io/badge/@raull__martinss-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/raull__martinss/profilecard/?igsh=MTFmbTNnY3NkY29iZg==)
